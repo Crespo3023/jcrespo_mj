@@ -1,0 +1,5 @@
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\Example\obj\Debug\net8.0\Example.sourcelink.json
