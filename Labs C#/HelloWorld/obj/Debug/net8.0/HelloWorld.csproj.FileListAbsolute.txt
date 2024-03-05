@@ -5,3 +5,11 @@ C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315
 C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
 C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
 C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\janka\OneDrive\Documentos\Documents\Estructura de Programacion\Comp2315\Labs C#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
