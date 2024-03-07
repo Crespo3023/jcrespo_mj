@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janka\\OneDrive\\Documentos\\Documents\\Estructura de Programacion\\Comp2315\\Labs C#\\Example\\Example.csproj",
-      "projectName": "Example",
-      "projectPath": "C:\\Users\\janka\\OneDrive\\Documentos\\Documents\\Estructura de Programacion\\Comp2315\\Labs C#\\Example\\Example.csproj",
+      "projectUniqueName": "C:\\Users\\janka\\OneDrive\\Documentos\\Documents\\Estructura de Programacion\\Comp2315\\Labs C#\\Example01\\Example01.csproj",
+      "projectName": "Example01",
+      "projectPath": "C:\\Users\\janka\\OneDrive\\Documentos\\Documents\\Estructura de Programacion\\Comp2315\\Labs C#\\Example01\\Example01.csproj",
       "packagesPath": "C:\\Users\\janka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janka\\OneDrive\\Documentos\\Documents\\Estructura de Programacion\\Comp2315\\Labs C#\\Example\\obj\\",
+      "outputPath": "C:\\Users\\janka\\OneDrive\\Documentos\\Documents\\Estructura de Programacion\\Comp2315\\Labs C#\\Example01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janka\\AppData\\Roaming\\NuGet\\NuGet.Config"
