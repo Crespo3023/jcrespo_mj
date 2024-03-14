@@ -22,5 +22,7 @@ int main()
     cin.ignore();
     getline(cin,cadena);
 
+    cout << "Fin del programa";
+    
     return 0;
 }
