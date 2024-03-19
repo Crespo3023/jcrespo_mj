@@ -9,7 +9,7 @@ int manin()
     cout<< "Ingresa la medida del radio:";
     cin >> radio;
 
-    area= PI * radio * radio;
+    area= PI * radio * radio; 
 
     cout <<"El area del circulo es:" <<area<<endl;
 
