@@ -1,15 +1,15 @@
 #include <iostream>
 using namespace std;
-int manin()
+int main()
 {
-    double celsius,fahrenheit;
+    double celsius, fahrenheit;
 
-    cout<<"Ingrese la temperatura en grados Celsius";
+    cout << "Ingrese la temperatura en grados Celsius: ";
     cin >> celsius;
 
     fahrenheit = celsius * 9/5 + 32;
 
-    cout<<"La temperatura en grados fahrenheit es"<<fahrenheit << "grados fahrenheit"<<endl;
+    cout<<"La temperatura en grados fahrenheit es " << fahrenheit << " grados fahrenheit" << endl;
 
     return 0;
 }
