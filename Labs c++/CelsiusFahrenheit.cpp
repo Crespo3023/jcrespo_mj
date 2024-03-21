@@ -9,7 +9,7 @@ int main()
 
     fahrenheit = celsius * 9/5 + 32;
 
-    cout<<"La temperatura en grados fahrenheit es " << fahrenheit << " grados fahrenheit" << endl;
+    cout<<"La temperatura en grados fahrenheit es " << fahrenheit << " fahrenheit" << endl;
 
     return 0;
 }
