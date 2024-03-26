@@ -8,7 +8,7 @@ int main()
     double radio, area;
     const double PI = 3.14;
 
-    // Ingresar el valor
+    // Para ingresar el valor del radio
     cout<< "Ingresa la medida del radio:";
     cin >> radio;
 
@@ -16,7 +16,7 @@ int main()
     area= PI * radio * radio; 
 
 
-    // muestra el resultado
+    // muestra el resultado final (el area)
     cout <<"El area del circulo es:" << area <<endl;
 
     return 0;

@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 int main()
+
 {
+    //Definir variables
     double nota1,nota2,nota3,nota4, promedio;
 
     //Entradas de valores de los 4 notas
@@ -22,7 +24,7 @@ int main()
     promedio = (nota1 + nota2 + nota3 + nota4) /4;
 
     //Muestra el promedio final
-    cout<<"El promedio final de la clase es " << promedio << " Feliidades" << endl;
+    cout<<"El promedio final de la clase es " << promedio << " Feliidades!" << endl;
 
     return 0;
 }
