@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "estructura_if",
+            "request": "launch",
+            "mainClass": "Labs.estructura_if",
+            "projectName": "Comp2315_11d4bf1b"
+        },
+        {
+            "type": "java",
+            "name": "estructura_if",
+            "request": "launch",
+            "mainClass": "estructura_if",
+            "projectName": "Comp2315_11d4bf1b"
+        },
+        {
+            "type": "java",
+            "name": "ejemplo_02",
+            "request": "launch",
+            "mainClass": "ejemplo_02",
+            "projectName": "Comp2315_11d4bf1b"
+        },
+        {
             "name": "(gdb) Attach",
             "type": "cppdbg",
             "request": "attach",
@@ -24,7 +45,6 @@
                 }
             ]
         },
-        
         {
             "type": "java",
             "name": "App",
