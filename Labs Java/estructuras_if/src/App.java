@@ -9,7 +9,7 @@ public static void main(String[] args) {
     int n= scanner. nextInt();
 
         if (n >= 5) {
-        System.out.println ( "¡Felicidades, usted cualifica para el bono!");
+        System.out.println ( "¡Felicidades, usted cualifica para el bono $1000!");
          }
 
 	    if (n < 5) {

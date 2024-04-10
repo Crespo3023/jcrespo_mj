@@ -7,17 +7,17 @@ int main ()
 {
    // Definir variables y codigo de membresias activas
 
-   string code1, Si, No;
+   string answer;
    
    //Comando para ingresar su estado de membresia
-   cout << "Usted esta activo escriba (1) o de ser inactivo ingresa (2):  ";
-   getline(cin,code1);
+   cout << "Usted esta (activo/inactivo) : ";
+   getline(cin,answer);
 
    try 
 
    {
       // Comando de seleccion, cofirma que el codigo este activo
-      if ( code1 == "activo" )
+      if ( answer == "activo" )
 
         //Mensaje que enviara cuando el con codigo esta activo
       {

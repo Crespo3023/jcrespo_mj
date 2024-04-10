@@ -6,12 +6,16 @@ namespace Program {
             Console.Write ("Ingrese su estado (activo/inactivo): ");
             string answer= Console.ReadLine();
 
-            if(answer == "activo"){
-                Console.WriteLine("Usted puede solicitar prestamos de libros!");
+            // Comando de seleccion que compara la respuesta con el estado "activo"
+            if(answer == "activo")
+            {
+             Console.WriteLine("Usted puede solicitar prestamos de libros!");
             }
+
+            // Cuando no es activo
             else
             {
-                Console.WriteLine("Usted no puede solicitar prestamos de libros");
+             Console.WriteLine("Usted no puede solicitar prestamos de libros");
             }
         }
     }
