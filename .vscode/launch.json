@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "java_for",
+            "request": "launch",
+            "mainClass": "java_for",
+            "projectName": "Comp2315_11d4bf1b"
+        },
+        {
+            "type": "java",
+            "name": "Java_while",
+            "request": "launch",
+            "mainClass": "Java_while",
+            "projectName": "Comp2315_11d4bf1b"
+        },
+        {
+            "type": "java",
             "name": "estructura_if",
             "request": "launch",
             "mainClass": "Labs.estructura_if",

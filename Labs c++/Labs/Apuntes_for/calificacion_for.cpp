@@ -11,12 +11,12 @@ int main()
     string nombreEstudiante;
 
     //Recolectar info que pondra el limite al comando for
-    cout << "Ingrese la cantidad de estudiantes: ";
+    cout << "Ingrese la cantidad de estudiantes (Maximo 10 estudiantes): ";
     cin >> cantidadEstudiante;
 
-    //Repetira el procedimiento depende la cantidad de estudiantes
-    for ( int i=1 ; i<=cantidadEstudiante; i++ )
-    {
+        //Repetira el procedimiento depende la cantidad de estudiantes
+    for ( int i=1 ; i<= cantidadEstudiante; i++ )
+        {
         //Recolectara la info de los estudiantes
         cout << "Estudiante # " << i << ":" << endl;
 
@@ -32,11 +32,13 @@ int main()
         sumaCalificacion= sumaCalificacion+ calificacionEstudiante; 
 
     }
+
+ 
     //proceso matematico
     promedio= sumaCalificacion/cantidadEstudiante;
 
     //mensaje final
     cout << "El promedio general de las calificacion es del grupo es: " << promedio << endl;
-
+ 
     return 0;
 }
